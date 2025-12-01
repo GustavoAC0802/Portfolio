@@ -1,6 +1,13 @@
 # Portfólio - Gustavo Almeida Camargo
 
-## 👤​ Sobre mim
+## 👤​ Sobre mim <div style="display: flex; align-items: center; gap: 20px;">
+  <img align="right"
+    src="/assets/gustavo.jfif" 
+    width="200"
+    heigh="200"
+    style="border-radius: 12px; object-fit: cover;"
+  />  
+</div>
 
 Me chamo Gustavo Almeida Camargo, tenho 20 anos. Cursei Técnico em Informática no Colégio Joseense, onde tive meu primeiro contato com linguagens de programação, explorando tanto Desenvolvimento Web quanto Desenvolvimento de Jogos. Esse período foi essencial para eu descobrir meu interesse pela área de tecnologia e iniciar minha trajetória no desenvolvimento de software.
 
@@ -90,6 +97,12 @@ Atuei como membro do Dev Team, sendo responsável pela criação das páginas pr
 • **Proatividade:** Pesquisei diferentes técnicas de coleta automática e implementei a solução por iniciativa própria.  
 • **Comunicação:** Mantive alinhamento constante com a equipe e ajustei as páginas conforme feedbacks do professor.
 
+**Repositório do Projeto:** 
+
+<a href="https://github.com/nicolygz/the-devs-department">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </details>
 
 <details>
@@ -125,6 +138,12 @@ Atuei como **Product Owner**, sendo responsável por garantir que o produto aten
 • **Gestão de Prioridades:** Mantive o backlog sempre atualizado e organizado pelo valor de negócio.  
 • **Visão de Produto:** Durante as validações, identifiquei o que realmente agregava valor ao cliente e direcionei as decisões do time para entregas mais estratégicas.
 
+**Repositório do projeto:**
+
+<a href="https://github.com/the-devs-department/HELPNEI-2025.1-2Sem">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </details>
 
 <details>
@@ -159,5 +178,11 @@ Atuei como membro do **Dev Team**, participando ativamente do desenvolvimento da
 ## 🤝 Soft Skills Desenvolvidas
 • **Trabalho em Equipe:** Aprimorei minha colaboração com o time, participando ativamente das decisões técnicas e ajudando a integrar diferentes partes da aplicação.  
 • **Comunicação:** Aprendi a me expressar melhor durante as dailies e discussões de arquitetura, garantindo que minhas ideias fossem claras e que todos estivessem alinhados sobre o que eu estava desenvolvendo.  
+
+**Repositório do Projeto:**
+
+<a href="https://github.com/the-devs-department/GSW-2025.2-3Sem">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </details>
