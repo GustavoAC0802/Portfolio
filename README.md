@@ -180,7 +180,6 @@ Para resolver o problema, a equipe desenvolveu um **gerenciador de tarefas web**
 
 **3.** Gestão de expectativas: O time, muitas vezes, “passou a mão na cabeça” de certos membros, aguardando que houvesse melhoria, o que atrasou o ritmo de trabalho.
 
-**4.** Redução e união do time: Após a diminuição do número de integrantes, todos concordaram que o time se sentiu mais coeso e alinhado, melhorando a colaboração e a produtividade.
 
 ## 🧩 Hard Skills Desenvolvidas
 • **TypeScript** — realizo com auxílio  
