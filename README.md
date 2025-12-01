@@ -167,7 +167,20 @@ Para resolver o problema, a equipe desenvolveu um **gerenciador de tarefas web**
 • **Git** — versionamento e integração do time  
 
 ## 👨‍💻 Contribuições Pessoais (Dev Team)
-Atuei como membro do **Dev Team**, participando ativamente do desenvolvimento das páginas de **visualização de tarefas**, garantindo clareza e fluidez na experiência do usuário. Trabalhei diretamente na implementação da **lógica do CRUD de tarefas**, desenvolvendo funções de criação, atualização, listagem e exclusão conectadas ao back-end. Também contribuí na construção de **microserviços**, auxiliando o time na modularização do sistema, separando responsabilidades e facilitando a manutenção da solução. Minha atuação foi principalmente técnica, colaborativa e alinhada com as necessidades do projeto.
+
+• Atuei como membro do **Dev Team**, participando ativamente do desenvolvimento das páginas de **visualização de tarefas**, garantindo clareza e fluidez na experiência do usuário. Trabalhei diretamente na implementação da **lógica do CRUD de tarefas**, desenvolvendo funções de criação, atualização, listagem e exclusão conectadas ao back-end. Também contribuí na construção de **microserviços**, auxiliando o time na modularização do sistema, separando responsabilidades e facilitando a manutenção da solução. Minha atuação foi principalmente técnica, colaborativa e alinhada com as necessidades do projeto.
+
+ **Identificação de Problemas**
+ 
+• Como integrante do DevTeam, durante o desenvolvimento da API no 3º semestre, identifiquei alguns desafios que impactaram o desempenho do time:
+
+**1.** Falta de organização: A desorganização nas tarefas e no fluxo de trabalho prejudicou o progresso do time, especialmente durante a terceira sprint, tornando difícil manter a produtividade e a clareza nas entregas.
+
+**2.** Entregas inconsistentes: Alguns membros apresentaram entregas “duvidosas”, o que exigiu refatoramentos e aumentou o tempo de conclusão de tarefas que originalmente seriam rápidas.
+
+**3.** Gestão de expectativas: O time, muitas vezes, “passou a mão na cabeça” de certos membros, aguardando que houvesse melhoria, o que atrasou o ritmo de trabalho.
+
+**4.** Redução e união do time: Após a diminuição do número de integrantes, todos concordaram que o time se sentiu mais coeso e alinhado, melhorando a colaboração e a produtividade.
 
 ## 🧩 Hard Skills Desenvolvidas
 • **TypeScript** — realizo com auxílio  
